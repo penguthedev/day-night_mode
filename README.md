@@ -49,7 +49,3 @@ LICENSE.txt   Usage terms
 - Preference key is `CONFIG.storageKey` — change it if you ship multiple themes on one origin.
 - The ambient page backdrop (washes, glows, grain) is optional — remove `.page-backdrop` if you don't need it.
 - Birds and shooting stars respect `prefers-reduced-motion` and will not schedule when it matches.
-
-## Support
-
-Questions or issues? Reach out via Payhip or email **contact@enquiryconnect.com**.
